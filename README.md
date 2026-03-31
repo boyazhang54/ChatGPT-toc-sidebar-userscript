@@ -1,6 +1,8 @@
 # ChatGPT-toc-sidebar-userscript
 A lightweight plugin that automatically generates a navigable table of contents for ChatGPT conversations, making long chats easier to browse and navigate.
 
+![sidebar-preview](docs/images/sidebar-preview.png)
+
 ## Setup Guide
 
 This tool injects a lightweight sidebar navigation panel into the target webpage using a Tampermonkey userscript.
