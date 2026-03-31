@@ -8,6 +8,7 @@ This tool injects a lightweight sidebar navigation panel into the target webpage
 ### 1. Install Tampermonkey
 
 Install the Tampermonkey browser extension for Chrome or Edge.
+![tempermonkey extension](docs/images/tampermonkey.png)
 
 ### 2. Add the userscript
 
@@ -24,9 +25,10 @@ Recent Chrome-based browsers may require an additional permission before Tamperm
 - Otherwise: enable **Developer Mode** on the extensions page
 
 See the Tampermonkey FAQ (Q209) for the official instructions. 
-#### Helpful links
 
+#### Helpful links
 - Official Tampermonkey FAQ: https://www.tampermonkey.net/faq.php
+![instruction](docs/images/permission.png)
 
 ### 4. Refresh the page
 
