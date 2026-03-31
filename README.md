@@ -14,7 +14,7 @@ Install the Tampermonkey browser extension for Chrome or Edge.
 
 - Open the Tampermonkey dashboard
 - Create a new script
-- Replace the default template with the JavaScript provided in this repository
+- Replace the default template with the JavaScript provided in this repository (see scr/plugin.js)
 - Save the script
 ![userscript](docs/images/userscript.png)
 
