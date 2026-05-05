@@ -2,3 +2,5 @@
   和 ChatGPT
 
 2.实践流程：用谷歌账号创建github账号，并在本地电脑下载并配置git，打开gitbash，创建git 用户名和邮箱（和github使用同一个邮箱）
+
+2.实践流程：用谷歌账号创建github账号，并在本地电脑下载并配置git，打开gitbash，创建git 用户名和邮箱（和github使用同一个邮箱）
